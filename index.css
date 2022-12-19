@@ -11,10 +11,10 @@
     gap: 36px;
     margin-top: 50px;
 }
-/* nav{
+nav{
     background: 
     #3B3937;
-} */
+}
 .logo{
     margin-top: 20px;
 }
@@ -29,6 +29,11 @@
     
 }
 .ewik{
+    text-align: center;
+    color: 
+    #B14101;
+}
+.ewik1{
     text-align: center;
     color: 
     #B14101;
@@ -75,7 +80,7 @@ background: #FFFFFF;
 }
 .halol12{
     margin-top: 60px;
-    width: 320px;
+    width: 240px;
     height: 60px;
     left: 710px;
     top: 450px;
@@ -103,9 +108,16 @@ line-height: 110%;
 letter-spacing: 0.01em;
 color: #3B3937;
 }
+.card{
+    width: 100%;
+    height: 440px;
+}
+.card-img-top{
+    width: 100px
+}
 .halol22{
     margin-top: 60px;
-    margin-left: 20px;
+    
     width: 240px;
 height: 60px;
 left: 710px;
@@ -115,12 +127,17 @@ background: #FFFFFF;
 .mejkomnatnie{
     margin-left: 20px;
     width: 230px;
-height: 60px;
+    height: 60px;
     border: 2px solid #3B3937;
 }
 .card2{
+    margin-top: 100px;
+    padding-top: 60px;
     width: 100%;
     height: 440px;
+    border-radius: 50%;
+    background: url(image.png), linear-gradient(0deg, rgba(198, 156, 109, 0.05), rgba(198, 156, 109, 0.05)), rgba(51, 51, 51, 0.5);
+backdrop-filter: blur(3.5px);
 }
 .bek{
     justify-content: space-around;
@@ -131,7 +148,58 @@ height: 60px;
 .behruz{
     justify-content: center;
 }
-
+.rectalange{
+    max-width: 100%;
+}
+.classic{
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+text-align: center;
+letter-spacing: -0.02em;
+color: #FFFFFF;
+}
+.enter{
+font-size: 20px;
+line-height: 120%;
+text-align: center;
+letter-spacing: -0.02em;
+color: #FFD6A8;
+}
+.siuu{
+    padding: 10px 20px;
+    background: #A9845C;
+    border: none;
+    margin-left: 32%;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.laptop{
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+text-align: center;
+color: #FFFFFF;
+}
+.podrobnee{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+}
 
 .podrobnee{
     width: 50%;
@@ -149,5 +217,117 @@ height: 60px;
 .list_item a{
     text-decoration: none;
 }
+.xayr{
+    color: #B14101;
+}
+footer{
+    background: 
+    #3B3937;
+}
+.vec{
+    margin-top: 50px;
+}
+.zawita{
+    margin-top: 21px;
+}
+.phone{
+    margin-top: 70px;
+    color: #fff;
+}
+.tofon{
+    margin-left: 50px;
+}
 
+.taroq{
+    margin-top: 75px;
+    color: #fff;
+    margin-left: 70px;
+}
+.dastav{
+    margin-top: 50px;
+}
+.kitob{
+    margin-top: 75px;
+    color: #fff;
+    margin-left: 70px;
+}
+
+.daftar{
+    margin-top: 75px;
+    color: #fff;
+    margin-left: 70px;
+}
+
+.text22{
+    margin-top: 40px;
+    color: #fff;
+}
+.zawita{
+    color: #fff;
+}
+@media (max-width:575px) {
+  .nav1{
+    height: 80px;
+    width: 100%;
+    background: #3B3937;
+  }  
+   .ligo{
+    margin-top: 15px;
+    margin-left: 25px;
+   }
+   .btn5{
+    margin-top: 22px;
+    margin-left: 56px;
+    font-weight: 700;
+font-size: 13px;
+background: #A9845C;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;
+text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+   }
+   .images{
+    margin-top: 26px;
+    margin-left: 50px;
+   }
+   .ewik{
+    margin-left: 200px;
+   }
+   .ewik1{
+    margin-left: 170px;
+   }
+   .tovar{
+    text-align: center;
+   }
+   .card-text{
+    margin-top: 15px;
+   }
+   .card-title{
+    margin-top: 30px;
+   }
+   .qogoz{
+    text-align: center;
+   }
+   .tofon{
+    text-align: center;
+   }
+   .taroq{
+    text-align: center;
+   }
+   .daftar{
+    text-align: center;
+   }
+   .kitob{
+    text-align: center;
+   }
+   .card2{
+    margin-top: 50px;
+    padding-top: 55px;
+    width: 100%;
+    height: 350px;
+    border-radius: 50%;
+    background: url(image.png), linear-gradient(0deg, rgba(198, 156, 109, 0.05), rgba(198, 156, 109, 0.05)), rgba(51, 51, 51, 0.5);
+backdrop-filter: blur(3.5px);
+}
+}
     
