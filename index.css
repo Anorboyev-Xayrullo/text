@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.list{
+    list-style: none;
+    display: flex;
+    gap: 36px;
+    margin-top: 50px;
+}
+/* nav{
+    background: 
+    #3B3937;
+} */
+.logo{
+    margin-top: 20px;
+}
+.katalog{
+    width: 20%;
+    background: 
+    #A9845C;
+
+}
+.footer{
+    background: #333  100%;
+    
+}
+.ewik{
+    text-align: center;
+    color: 
+    #B14101;
+}
+
+.tovar{
+    color: 
+    #3B3937;
+}
+.kupit{
+ text-align: center;
+ margin-left: 200px;
+}
+
+.abdulloh{
+    margin-top: 40px;
+}
+
+.pokazat{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.dilfuza{
+    margin-top: 40px;
+}
+.dilfuz{
+    margin-top: 90px;
+    margin-left: 70px;
+}
+
+
+.telefon{
+    margin-top: 30px;
+}
+
+.halol{
+    margin-top: 60px;
+    width: 240px;
+height: 60px;
+left: 710px;
+top: 370px;
+background: #FFFFFF;
+}
+.halol12{
+    margin-top: 60px;
+    width: 320px;
+    height: 60px;
+    left: 710px;
+    top: 450px;
+    background: #A9845C
+}
+.xaykal{
+    margin-top: 50px;
+}
+.xaykal1{
+    margin-top: 50px;
+}
+.statik{
+    width: 400px;
+height: 60px;
+left: 1040px;
+top: 3968px;
+background: #FFFFFF;
+border: 1px solid rgba(68, 68, 68, 0.2);
+}
+
+.grafik{
+    font-weight: 700;
+font-size: 21px;
+line-height: 110%;
+letter-spacing: 0.01em;
+color: #3B3937;
+}
+.halol22{
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 240px;
+height: 60px;
+left: 710px;
+top: 370px;
+background: #FFFFFF;
+}
+.mejkomnatnie{
+    margin-left: 20px;
+    width: 230px;
+height: 60px;
+    border: 2px solid #3B3937;
+}
+.card2{
+    width: 100%;
+    height: 440px;
+}
+.bek{
+    justify-content: space-around;
+    margin-top: 10px;
+    height: 700px;
+    background: url(./img/Rectangle\ 1.png);
+}
+.behruz{
+    justify-content: center;
+}
+
+
+.podrobnee{
+    width: 50%;
+    height: 50%;
+    background: 
+    #A9845C;
+}
+.bola{
+    margin-left: 90px;
+    display: flex;
+    gap: 50px;
+    color: #fff;
+    margin-top: 50px;
+}
+.list_item a{
+    text-decoration: none;
+}
+
+    
