@@ -124,6 +124,10 @@ left: 710px;
 top: 370px;
 background: #FFFFFF;
 }
+.text{
+    border: none;
+    outline: none;
+}
 .mejkomnatnie{
     margin-left: 20px;
     width: 230px;
@@ -148,9 +152,7 @@ backdrop-filter: blur(3.5px);
 .behruz{
     justify-content: center;
 }
-.rectalange{
-    max-width: 100%;
-}
+
 .classic{
 font-weight: 700;
 font-size: 36px;
@@ -271,6 +273,9 @@ footer{
     width: 100%;
     background: #3B3937;
   }  
+  .rectalange{
+    max-width: 100%;
+}
    .ligo{
     margin-top: 15px;
     margin-left: 25px;
